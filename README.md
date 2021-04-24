@@ -23,5 +23,5 @@
  ![数字游民指南](https://images.nomadguide.cn/default/nomadguide_dyh.jpg)
 
 #### 数字游民每周精选： 游民指南 微信订阅号
- ![数字游民指南](https://images.nomadguide.cn/default/nomadguide_fwh.jpg)
+ ![游民指南](https://images.nomadguide.cn/default/nomadguide_fwh.jpg)
 
